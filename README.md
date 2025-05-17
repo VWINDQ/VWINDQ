@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently working on a smart home robot using TurtleBot2, YDLidar, and a robotic arm
 - 💬 Ask me about ROS, Arduino, and computer vision
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [poomsuttiphan@gmail.com](mailto:poomsuttiphan@gmail.com)
 
 ---
 
@@ -24,9 +24,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phattaraphon123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VWINDQ&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phattaraphon123&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VWINDQ&theme=tokyonight" />
 </p>
 
 ---
