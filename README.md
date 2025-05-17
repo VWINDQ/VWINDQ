@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Phattaraphon</h1>
 
-<!--
-**VWINDQ/VWINDQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🤖 Robotics & AI Developer • 🚀 ROS | Python | Arduino • 👨‍🎓 Student | 💡 Maker
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🌱 I’m currently working on a smart home robot using TurtleBot2, YDLidar, and a robotic arm
+- 💬 Ask me about ROS, Arduino, and computer vision
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+### 🔧 Technologies & Tools
+<img src="https://img.shields.io/badge/ROS-Noetic-blue?logo=ros" />
+<img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python" />
+<img src="https://img.shields.io/badge/Arduino-UNO-informational?logo=arduino" />
+<img src="https://img.shields.io/badge/YDLidar-X2-orange" />
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phattaraphon123&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phattaraphon123&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Featured Project
+
+🚀 [Smart Home Robot](https://github.com/phattaraphon123/smart-home-robot)  
+A ROS-based home robot using TurtleBot2, Lidar, and a 3-servo robotic arm.
+
+---
+
+### 📫 Contact Me
+- Facebook: [YourName](https://facebook.com/YourProfile)
+- Email: your.email@example.com
