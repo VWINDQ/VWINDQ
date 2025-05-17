@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently working on a smart home robot using TurtleBot2, YDLidar, and a robotic arm
+- 🌱 Studying at King Mongkut's University of Technology Thonburi, Department of Applied Computer Science
 - 💬 Ask me about ROS, Arduino, and computer vision
 - 📫 How to reach me: [ppoom.stp](https://instagram.com/ppoom.stp)
 
