@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Studying at King Mongkut's University of Technology Thonburi, Department of Applied Computer Science
-- 💬 Ask me about ROS, Arduino, and computer vision
+- 💬 Ask me about ROS, Python, and computer vision
 - 📫 How to reach me: [ppoom.stp](https://instagram.com/ppoom.stp)
 
 ---
