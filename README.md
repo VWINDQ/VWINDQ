@@ -33,7 +33,7 @@
 
 ### ✨ Featured Project
 
-🚀 [Smart Home Robot]([https://github.com/phattaraphon123/smart-home-robot](https://github.com/VWINDQ/YOLOv9-home.git))  
+🚀 [Smart Home Robot](https://github.com/VWINDQ/YOLOv9-home.git)  
 A ROS-based home robot using TurtleBot2, Lidar, and a 3-servo robotic arm.
 
 ---
