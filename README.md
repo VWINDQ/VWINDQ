@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently working on a smart home robot using TurtleBot2, YDLidar, and a robotic arm
 - 💬 Ask me about ROS, Arduino, and computer vision
-- 📫 How to reach me: [poomsuttiphan@gmail.com](mailto:poomsuttiphan@gmail.com)
+- 📫 How to reach me: [ppoom.stp](https://instagram.com/ppoom.stp)
 
 ---
 
