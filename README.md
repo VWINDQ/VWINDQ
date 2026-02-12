@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Phattaraphon</h1>
 
 <p align="center">
-  🤖 Robotics & AI Developer • 🚀 ROS | Python | Arduino • 👨‍🎓 Student | 💡 Maker
+  🤖 Robotics & AI Developer • 🚀 ROS | Python | C | C++ • 👨‍🎓 Student | 💡 Maker
 </p>
 
 ---
