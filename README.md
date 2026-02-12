@@ -39,5 +39,5 @@ A ROS-based home robot using TurtleBot2, Lidar, and a 3-servo robotic arm.
 ---
 
 ### 📫 Contact Me
-- Instagram: [ppoom.stp](https://instagram.com/ppoom.stp)
+- Instagram: [ppoom.stp](https://instagram.com/ppoommstp)
 - Email: poomsuttiphan@gmail.com
